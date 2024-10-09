@@ -12,7 +12,7 @@ title                    : "JI CHENGZHI / Personal Website"
 title_separator          : "-"
 name                     : &name "JI CHENGZHI"
 description              : &description "personal description"
-url                      : https://gurth.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gurth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gurth/gurth.github.io"
 
