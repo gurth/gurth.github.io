@@ -132,10 +132,11 @@
   display: none;
   @media screen and (min-width: 1024px) {
     display: block;
+    word-wrap: break-word;  /* 长单词自动换行 */
+    white-space: normal;    /* 允许换行 */
+    overflow-wrap: break-word;  /* 防止文本溢出容器 */
+    overflow: visible;  /* 确保内容不会被隐藏 */
   }
-  word-wrap: break-word;  /* 长单词自动换行 */
-  white-space: normal;    /* 允许文本换行 */
-  overflow-wrap: break-word;  /* 防止文本溢出容器 */
 }
 
 .author__pronouns {
