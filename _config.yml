@@ -26,7 +26,8 @@ author:
   pronouns         : "he/him"
   bio              : "Motivated master's student seeking a host laboratory for PhD research opportunities"
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy<br>of Sciences"
+  employer         : "University of Chinese Academy<br>&nbsp;of Sciences"
+  employer         : "Institute of Software,<br>&nbsp;Chinese Academy of Sciences"
   uri              : # URL
   email            : "jichengzhi2023@iscas.ac.cn" 
 
