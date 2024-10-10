@@ -17,8 +17,19 @@ Education
 Research experience
 ======
 * September 2024: Deep Learning-Based Radio Signal Detection in Real-World Environments
-  * Institute of Software , Chinese Academy of Sciences (ISCAS)
+  * 
+
+* October 2023: Intelligent Detection System for Weak Signals Based on Deep Learning
   
+* September 2021: Development of Multivariate Trait Association Analysis Using Generalized Linear Mixed Models (GLMM)
+
+* March 2021: Development of Whole-Genome Methylation Sequencing Data Analysis Pipeline
+  * Source: https://github.com/gurth/MethyAnalysis
+
+Technicak experience
+======
+* December 2023: Radio Signal Localization Using TDOA Methods
+
 Skills
 ======
 * C/C++, Python (PyTorch)
