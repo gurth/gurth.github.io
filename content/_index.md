@@ -57,13 +57,20 @@ sections:
   #     columns: 2
 
   - block: markdown
+    id: news
     content:
-      title: 'Recent News'
+      title: Recent News
       subtitle: ''
-      text: |-
-        * [02/2024] Paper ConforDet is accepted by IEEE WoWMoM'24
+      text: ''
+    items:
+      - title: "Paper ConforDet is accepted by IEEE WoWMoM'24"
+        date: 2024-02-26
     design:
-      columns: '1'
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
 
 
   - block: collection
