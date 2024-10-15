@@ -3,7 +3,7 @@
 title: Ji Chengzhi
 
 # Name pronunciation (optional)
-name_pronunciation: Ji Chengzhi
+# name_pronunciation: Ji Chengzhi
 
 # Full name (for SEO)
 first_name: Chengzhi
@@ -52,51 +52,48 @@ interests:
   - RF Deep Learning
 
 education:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng in Software Engineering (expected 2025)
+    institution: University of Chinese Academy of Sciences
+    date_start: 2022-09-01
+    date_end: 2025-06-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.45/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Deep Learning, Machine Learning, Advanced Software Engineering, Advanced Algorithm, Pattern Recognition and Machine Learning
+  - area: BSc in Applied Biosciences
+    institution: Zhejiang University
+    date_start: 2018-09-01
+    date_end: 2022-06-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.78/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Data Structure, Object-Oriented Programming, Software Engineering, Stochastic Process, Software Protection Technology
+      - Bioinformatics, Systems Biology, Biostatistics and Experiment Design
+# work:
+#   - position: Director of Cloud Infrastructure
+#     company_name: GenCoin
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - position: Backend Software Engineer
+#     company_name: X
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Responsibilities include:
+#       - Migrated infrastructure to a new data center
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -107,38 +104,38 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      # - name: Data Science
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
+      # - name: SQL
+      #   description: ''
+      #   percent: 40
+      #   icon: circle-stack
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Hiking
+  #       description: ''
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ''
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ''
+  #       percent: 80
+  #       icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -174,4 +171,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Ji Chengzhi, currently pursuing a Master's degree at University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), under the supervision of Senior Engineer Zhou Xin. My research focuses on advanced artificial intelligence (AI) and radio technologies, dedicated to utilizing deep learning for intelligent analysis of radio signals.
+
+Prior to joining UCAS, I graduated from Zhejiang University ([ZJU](https://www.zju.edu.cn/english/main.psp)) with a Bachelor's degree, primarily engaged in research on bioinformatics and biostatistics. My undergraduate thesis centered on multi-trait association analysis methods based on generalized linear mixed models (GLMM). Additionally, I participated in transgenic research, employing virus-induced gene silencing (VIGS) and CRISPR technologies to explore the impact of the strigolactone (SL) signal regulator D53 on tomato plant growth.
+
+My academic experience spanning the fields of biological sciences and information technology has equipped me with a unique interdisciplinary perspective and research capabilities. I look forward to continuing to delve deeply into the intersecting areas of artificial intelligence (AI) technology, dedicating myself to technological innovation research.
