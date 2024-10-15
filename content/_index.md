@@ -61,13 +61,10 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: ''
-    items:
-      - title: "Paper ConforDet is accepted by IEEE WoWMoM'24"
-        date: 2024-02-26
+      text: "[02/2024] Paper ConforDet is accepted by IEEE WoWMoM'24"
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: list
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
