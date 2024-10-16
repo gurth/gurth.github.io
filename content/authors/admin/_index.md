@@ -59,6 +59,8 @@ education:
     date_start: 2022-09-01
     date_end: 2025-06-01
     summary: |
+      Advisor: Senior Engineer Xin Zhou
+
       GPA: 3.45/4.0
 
       Courses included:
@@ -68,7 +70,9 @@ education:
     date_start: 2018-09-01
     date_end: 2022-06-01
     summary: |
-      GPA: 3.78/4.0
+      Chu Kochen Honors College
+
+      GPA: 3.78/4.0 (Top 5%)
       
       Courses included:
       - Data Structure, Object-Oriented Programming, Software Engineering, Stochastic Process, Software Protection Technology
@@ -102,18 +106,30 @@ education:
 skills:
   - name: Technical Skills
     items:
+      - name: C/C++
+        description: 'Websocket'
+        percent: 100
+        icon: "custom/cpp"
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      # - name: Data Science
-      #   description: ''
-      #   percent: 100
-      #   icon: chart-bar
+        description: 'PyTorch'
+        percent: 100
+        icon: python 
       # - name: SQL
       #   description: ''
       #   percent: 40
       #   icon: circle-stack
+  
+  - name: Research Skills
+    items:
+      - name: Deep Learning
+        description: 'Object Detection, Self-Supervised Learning'
+        percent: 100
+        icon: "custom/dl"
+      - name: Biostatistics
+        description: 'Generalized Linear Mixed Models (GLMM)'
+        percent: 100
+        icon: "custom/biostatistics"
+
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -197,6 +213,8 @@ awards:
 ---
 
 ## About Me
+
+Motivated master's student seeking for PhD research opportunities.
 
 I am Ji Chengzhi, currently pursuing a Master's degree at University of Chinese Academy of Sciences ([UCAS](https://english.ucas.ac.cn/)), Institute of Software, Chinese Academy of Sciences ([ISCAS](http://english.is.cas.cn/)), under the supervision of Senior Engineer Zhou Xin. My research focuses on advanced artificial intelligence (AI) and radio technologies, dedicated to utilizing deep learning for intelligent analysis of radio signals.
 

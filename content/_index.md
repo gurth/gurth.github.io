@@ -20,8 +20,10 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       # css_class: dark
-      # background:
-        # color: "#DCDCDC"
+    
+    # design:
+    #   background:
+    #     color: "#DCDCDC"
 #        image:
 #          # Add your image background to `assets/media/`.
 #          filename: stacked-peaks.svg
@@ -63,11 +65,12 @@ sections:
       subtitle: ''
       text: |
         - [09/2024] Paper "Exploring the Application of Self-Supervised Learning in Time-Domain Signal Detection." is submitted to IEEE ICASSP'25
+        - [06/2024] Attend IEEE WoWMoM'24 in Perth, Australia and present my research
         - [02/2024] Paper "Signal as Point: Deep Learning Signal Detector on Time Domain." is accepted by IEEE WoWMoM'24
     design:
       # Choose a layout view
       view: list
-      # Reduce spacing
+      # Reduce spacing`
       spacing:
         padding: [0, 0, 0, 0]
 
