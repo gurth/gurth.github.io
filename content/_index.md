@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: bio
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -18,7 +19,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    # design:
       # css_class: dark
       # background:
         # color: "#DCDCDC"
@@ -61,7 +61,8 @@ sections:
     content:
       title: Recent News
       subtitle: ''
-      text: "[02/2024] Paper ConforDet is accepted by IEEE WoWMoM'24"
+      text: |
+        - [02/2024] Paper ConforDet is accepted by IEEE WoWMoM'24
     design:
       # Choose a layout view
       view: list

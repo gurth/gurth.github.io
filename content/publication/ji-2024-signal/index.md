@@ -1,7 +1,7 @@
 ---
 title: 'Signal as Point: Deep Learning Signal Detector on Time Domain'
 authors:
-- admin
+- Ji Chengzhi
 - Zhou Xin
 date: '2024-06-07'
 publishDate: '2024-10-15T08:10:03.079447Z'

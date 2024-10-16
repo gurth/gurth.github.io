@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Ji Chengzhi
+title: 纪 承志
 
 # Name pronunciation (optional)
-# name_pronunciation: Ji Chengzhi
+name_pronunciation: Ji Chengzhi
 
 # Full name (for SEO)
 first_name: Chengzhi
@@ -26,6 +26,8 @@ role: Master's Student
 organizations:
   - name: University of Chinese Academy of Sciences
     url: https://english.ucas.ac.cn/
+  - name: Institute of Software, Chinese Academy of Sciences
+    url: http://english.is.cas.cn/
 
 
 # Social network links
