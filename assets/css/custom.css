@@ -1,8 +1,9 @@
 #news .max-w-prose {
-  max-width: 768px !important;
+  max-width: 50rem !important;
   width: 100% !important;
+  font-size: 1.1rem !important;
 }
 
 #bio .prose {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
 }

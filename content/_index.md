@@ -62,7 +62,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: |
-        - [02/2024] Paper ConforDet is accepted by IEEE WoWMoM'24
+        - [09/2024] Paper "Exploring the Application of Self-Supervised Learning in Time-Domain Signal Detection." is submitted to IEEE ICASSP'25
+        - [02/2024] Paper "Signal as Point: Deep Learning Signal Detector on Time Domain." is accepted by IEEE WoWMoM'24
     design:
       # Choose a layout view
       view: list
