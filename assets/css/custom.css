@@ -7,3 +7,8 @@
 #bio .prose {
   font-size: 1.1rem;
 }
+
+#edu .prose p{
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;;
+}
