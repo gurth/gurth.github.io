@@ -1,13 +1,13 @@
 ---
-title: "Exploring the Application of Self-Supervised Learning in Time-Domain Signal Detection"
+title: "Self-Supervised Learning for Time-Domain Radio Signal Detection"
 authors:
 - Ji Chengzhi
 - Zhou Xin
-date: '2024-09-08'
+date: '2025-3-30'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-10-15T08:10:03.079447Z'
+# publishDate: '2024-10-15T08:10:03.079447Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_short: ""
 # url_source: '#'
 # url_video: '#'
 
-publication: '*2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*'
+publication: '*INNS International Joint Conference on Neural Networks (IJCNN) 2025*'
 
 ---
-Submitted for review.
+Accepted.

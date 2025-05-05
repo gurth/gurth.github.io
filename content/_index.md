@@ -64,7 +64,7 @@ sections:
       title: Recent News
       subtitle: ''
       text: |
-        - [09/2024] Paper "Exploring the Application of Self-Supervised Learning in Time-Domain Signal Detection." is submitted to IEEE ICASSP'25
+        - [09/2024] Paper "Self-Supervised Learning for Time-Domain Radio Signal Detection." is accepted to IEEE IJCNN'25
         - [06/2024] Attend IEEE WoWMoM'24 in Perth, Australia and present my research
         - [02/2024] Paper "Signal as Point: Deep Learning Signal Detector on Time Domain." is accepted by IEEE WoWMoM'24
     design:
