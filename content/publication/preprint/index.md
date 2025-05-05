@@ -3,11 +3,11 @@ title: "Self-Supervised Learning for Time-Domain Radio Signal Detection"
 authors:
 - Ji Chengzhi
 - Zhou Xin
-date: '2025-3-30'
+date: '2025-03-30'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: '2024-10-15T08:10:03.079447Z'
+publishDate: '2025-06-30T08:10:03.079447Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
